@@ -1,2 +1,2 @@
-# ircsp_v3
-Internet Relay Chat Service Package (Version 3)
+# ircsp
+Internet Relay Chat Services Package
